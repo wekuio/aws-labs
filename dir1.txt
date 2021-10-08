@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6CE8-784C
+
+ Directory of C:\tmp\gittest\aaa
+
+10/08/2021  12:45 PM    <DIR>          .
+10/08/2021  12:45 PM    <DIR>          ..
+10/08/2021  12:45 PM               147 dir1.txt
+10/08/2021  11:56 AM                15 README.md
+               2 File(s)            162 bytes
+               2 Dir(s)  66,316,304,384 bytes free
